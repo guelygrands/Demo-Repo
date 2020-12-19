@@ -1,2 +1,2 @@
 # Demo-Repo
-demo od
+Intro basic git program
